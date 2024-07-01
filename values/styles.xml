@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LoginHeaderTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#6918ba</item>
+
+
+    </style>
+
+    <style name="ButtonColorAdd" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">#3aa11b</item>
+    </style>
+
+
+
+</resources>
